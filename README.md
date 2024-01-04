@@ -3,7 +3,7 @@
 además de resolverlo en su momento con ese lenguaje, decidí volver a hacerlo pero con Python para poner en práctica mis conocimientos adquiridos sobre este lenguaje.**
 
 **Está desarrollado completamente en Python mediante el paradigma de la POO, aplicando conceptos tales como clases, atributos, métodos, reutilización de código, manejo de
-excepciones y de fechas y horas, herencia y clases y métodos abstractos. También incluye el uso del decorador property, propio de Python, para los getters y setters.**
+excepciones y de fechas, herencia y clases y métodos abstractos. También incluye el uso del decorador property, propio de Python, para los getters y setters.**
 
 Las **consignas del examen** en las cuales basé mi resolución se encuentran en el **archivo adjunto en el repositorio denominado 'Consigna.pdf'**.
 
